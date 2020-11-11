@@ -1,0 +1,19 @@
+<!--
+-- ----------------------------------------------
+-- Name : Vehicle-system
+-- File : meta.xml
+-- Developer : Mann
+-- Status : Work in progress, not yet completed
+
+-------------------------------------------------
+-->
+<meta>
+		<info author="Mann" description="A vehicle-system which includes Vehicle Shops, Fuel and much more!" version="1.0.3" type="script" />
+		<script src="server.lua" type="server" />
+		<script src="carshop.lua" type="client" />
+		<script src="spawnVehicles.lua" type="client" />
+		<script src="bikeshop.lua" type="client" />
+		<script src="planeshop.lua" type="client" />
+		<script src="boatshop.lua" type="client" />
+
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+
+	<info author="Mann" name="Pilot Job" description="A pilot job" version="1.0" />
+	<script src="aviation_server.lua" type="server" />
+	<script src="aviation_client.lua" type="client" />
+	
+</meta>

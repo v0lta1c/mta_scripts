@@ -1,0 +1,7 @@
+<meta>
+
+       <info author="Mann" name="FuelSystem" type="script" version="1.0.0" />
+	   <script src="fuel.lua" />
+	   <script src="fuel_c.lua" type="client" />
+	   
+</meta>

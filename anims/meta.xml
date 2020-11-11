@@ -1,0 +1,6 @@
+<meta>
+
+		<info author="Mann" name="anims" type="script" description="A script containing all the animation commands" version="1.0.0" />
+		<script src="anims.lua" type="server" />
+
+</meta>

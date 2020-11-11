@@ -1,0 +1,16 @@
+<!--
+-- ----------------------------------------------
+-- Name : Stock-Market
+-- File : meta.xml
+-- Developer : Mann
+-- Status : Work in progress, not yet completed
+
+-------------------------------------------------
+-->
+<meta>
+		<info author="Mann" description="Roketman" version="1.0.3" type="script" />
+		<script src="server.lua" type="server" />
+		<script src="client.lua" type="client" />
+		<map src="area-base.map" dimension="0"></map>
+
+</meta>

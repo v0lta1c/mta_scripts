@@ -1,0 +1,14 @@
+<!--
+-- ----------------------------------------------
+-- Name : Internet-Browser
+-- File : meta.xml
+-- Developer : Mann
+-- Status : Completed
+
+-------------------------------------------------
+-->
+<meta>
+		<info author="Mann" description="You can browse the internet!" version="1.0.5" type="script" />
+		<script src="browser.lua" type="client" />
+		
+</meta>

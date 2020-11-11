@@ -1,0 +1,6 @@
+<meta>
+
+<info author="Mann" descripton="a custom hud for dayz only 4 gamenet" version="1.0" type="script" />
+<script src="chud.lua" type="client" />
+
+</meta>

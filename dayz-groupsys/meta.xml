@@ -1,0 +1,5 @@
+<meta>
+	<info author="Mann" description="A group system for Gamenet.ga" type="script" version="1.0.0" />
+	<script src="group_server.lua" type="server" />
+	<script src="group_client.lua" type="client" />
+</meta>

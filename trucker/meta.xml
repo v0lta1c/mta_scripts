@@ -1,0 +1,7 @@
+<meta>
+
+	<info author="Mann" name="trucker" description="Trucker Job for Gamenet.ga" type="script" />
+	<script src="trucker.lua" type="server" />
+	<oop>true</oop>
+
+</meta>

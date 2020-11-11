@@ -1,0 +1,5 @@
+<meta>
+	<info author="Mann" type="script" description="This script teleports people away from area if they are there before disconnecting" version="1.0.0" />
+	<script src="areaTp.lua" type="server" />
+	<script src="areaTp_c.lua" type="client" />
+</meta>

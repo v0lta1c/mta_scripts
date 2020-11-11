@@ -1,0 +1,4 @@
+<meta>
+		<info author="Mann" name="accountControl" description="A resource to remove more than two accounts from a single serial" type="script" />
+		<script src="accControl.lua" />
+</meta>
